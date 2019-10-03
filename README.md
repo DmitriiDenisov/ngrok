@@ -11,7 +11,6 @@ Got there your token, after it:
 3. To open port: ```./ngrok http {port}```, for example ```./ngrok http 5000```
 
 Full description:
-
 https://dashboard.ngrok.com/get-started
 
 ## Useful commands:
